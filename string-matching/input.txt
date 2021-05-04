@@ -1,0 +1,9 @@
+1. Rabin karp
+
+cdfjacdbebfcghdjjcb
+dbebf
+
+2. KMP
+
+bacbababaabcbab
+ababaca
