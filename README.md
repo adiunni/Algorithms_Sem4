@@ -52,4 +52,4 @@ This repository contains all the following algorithmic approach
   </li>
 </ul>
 
-This repository contains code entirely in C-Language. All the code for each algorithm can be found here. Also programs will not run on their optimum time to show each and every necessary step ( For marks obviously ).
+This repository contains code entirely in C-Language. All the code for each algorithm can be found here. Also programs will not run on their optimum time just for debugging purposes.
